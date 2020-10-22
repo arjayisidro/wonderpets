@@ -1,0 +1,71 @@
+import { LOCALES } from '../locale';
+
+export default {
+  [LOCALES.ENGLISH]: {
+    pet_link: 'Pet Link',
+    welcome_to: 'WELCOME TO, PET LINK !',
+    home: 'Home',
+    about_us: 'About Us',
+    nana: 'Nana',
+    nana_description:
+      'Nana is a beautiful female dog who is love to play and eat at the same time.',
+    find_out_more: 'Find out more',
+    shop_by_category: 'Shop by Category',
+    buy_now: 'Buy Now!',
+    add_to_cart: 'Add to Cart',
+    view: 'View',
+    want_to_receive_updates: 'Want to receive the promotions and sales?',
+    enter_email: 'Enter Email',
+    follow_us: 'Follow Us!',
+    support: 'Support',
+    faqs: 'FAQs',
+    shipping_and_returns: 'Shipping and Returns',
+    contact_us: 'Contact Us',
+    shop: 'Shop',
+    accessories: 'Accessories',
+    foods: 'Foods',
+    vitamins: 'Vitamins',
+    our_story: 'Our Story',
+    careers: 'Careers',
+    terms_and_condtion: 'Terms & Conditions',
+    privacy_and_cookie_policy: 'Privacy & Cookie Policy',
+    company: 'Company',
+    all_rights_reserved: 'All Rights Reserved. Pet Link',
+    new_to_pet_link: 'New to Pet link?',
+    create_an_account: 'Create an Account',
+    sign_in_to_pet_link: 'Sign in to Pet Link',
+    username: 'Username',
+    email_address: 'Email Address',
+    password: 'Password',
+    sign_up_for_pet_link: 'Sign Up for Pet Link',
+    sign_up_terms:
+      'By clicking “Sign up for Pet Link”, you agree to our %{terms}',
+    registration_terms: 'We’ll occasionally send you account related emails.',
+    password_tips:
+      'Password must have at least 8 characters including a number and a lower case letter.',
+    welcome_to_petlink:
+      'Welcome to Pet Link! Today you may meet the perfect partner for your furr baby!',
+    million_of_pet_owners:
+      'Meet millions of Pet Owners and their lovely pets too!',
+    create_your_account: 'Create your Account',
+    create_account: 'Create Account',
+    lorem_ipsum:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    registration_welcome: 'Thank you for joining Pet Link!',
+    appreciate_post:
+      'We really appreciate your time and doing business with us!',
+    tell_your_friends: 'Tell your Friends!',
+    registration_successful: 'Registration Successful!',
+    we_have_send_an_email:
+      'We also send e-mail for your successful registration',
+    you_may_login_now: 'You may now',
+    login: 'Login',
+    logout: 'Logout',
+    my_account: 'My Account',
+    profile: 'Profile',
+    hello: 'Hello,',
+    my_cart: 'My Cart',
+    blogs: 'Blogs',
+    category: 'Category',
+  },
+};
